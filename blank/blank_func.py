@@ -5,3 +5,5 @@ def reverse(value):
     for i in reversed(range(len(value))):
         result += value[i]
     return result
+def testzz(test):
+    return 'vietpq'
